@@ -1,1 +1,1 @@
-Common white boarding questions with solutions from myself.
+Common white boarding questions with solutions tried and/or researched ;) by myself.
