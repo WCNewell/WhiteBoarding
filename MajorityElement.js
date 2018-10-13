@@ -1,5 +1,6 @@
 // Majority Element
-// Given an array of positive integers containing duplicates, return the majority element in an array, if present. A majority element is an element that appears more than n/2 times where n is the size of the array.
+// Given an array of positive integers containing duplicates, return the majority element in an array, if present.
+// A majority element is an element that appears more than n/2 times where n is the size of the array.
 
 let array = [1, 3, 4, 1, 1, 2, 1, 1]
 
