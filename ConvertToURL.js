@@ -15,9 +15,9 @@ var newNewStr = 'Pluto IS a planet'
 
 
 function convertToUrl(string, target, replacement) {
-    var i = 0,
-        length = string.length;
-    for (i; i < length; i++) {
+    // var i = 0,
+    //     length = string.length;
+    for (i = 0; i < string.length; i++) {
         string = string.replace(target, replacement);
     }
     return string;
