@@ -1,4 +1,5 @@
 // Convert to URL or "URLify a given string"
+
 // Convert a string into an acceptable URL by converting all spaces into %20
 // Side note: URI is Uniform Resource Identifier, a URL (Uniform Resource Locator) is the most common form of URI
 
