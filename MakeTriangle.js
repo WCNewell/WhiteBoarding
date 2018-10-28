@@ -27,3 +27,4 @@ console.log(makeTriangle(a, b, c))
 // Ok, so this can be simplified by remembering that the sum of any 2 lengths of a triangle is greater
 // than the length of the 3rd side if you take the three sides and add them in pairs,
 // the sum is greater than (not equal to) the 3rd side.
+// AND remember the Pythagorean Theorum only works on right triangles.
