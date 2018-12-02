@@ -1,5 +1,5 @@
 // ToUpperCase
-// Write a function that takes a string and returns the uppercase version of that string wiht an ! at the end
+// Write a function that takes a string and returns the uppercase version of that string with an '!' at the end
 
 let string = 'Bobbicat says meow'
 
