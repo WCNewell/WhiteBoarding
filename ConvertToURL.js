@@ -12,8 +12,7 @@ var newNewStr = 'Pluto IS a planet'
 
 // PsuedoCode: Write a for loop to iterate over string (function input)
 // Find and replace blank space with '%20'
-// Employ: newURL = [] or arr, for loop or .map or .forEach, .split,. .push or .join
-
+// Use .replace method
 
 function convertToUrl(string, target, replacement) {
     // var i = 0,
